@@ -1,0 +1,31 @@
+﻿DISTRIBUTIONCENTER,PHARMACY,SHIPPINGCOST,QUANTITYSHIPPED,RATIO
+Express Dallas,CXS Madison,2800,2400,1.166667
+Express Dallas,Walls Cincinnati,2000,1700,1.176471
+Supply Dallas,Walls Cincinnati,2800,2300,1.217391
+Supply Chicago,HSUSA Aurora,2000,1600,1.250000
+Express Dallas,Walls Cincinnati,2100,1600,1.312500
+Express St. Louis,First Toledo,2000,1500,1.333333
+Express Dallas,Pharma Akron,1500,1100,1.363636
+MedCo St. Louis,BestOf Lincoln,2600,1900,1.368421
+Supply Dallas,Walls Grand,2200,1500,1.466667
+Express Atlanta,First Toledo,3000,2000,1.500000
+Supply Dallas,First Toledo,1500,1000,1.500000
+Express Dallas,Walls Cincinnati,1400,900,1.555556
+MedCo Chicago,Walls Grand,1900,1200,1.583333
+Express Atlanta,Care Houston,2100,1200,1.750000
+Express St. Louis,Walls Grand,3000,1700,1.764706
+Supply Atlanta,Pharma Akron,1500,800,1.875000
+Express St. Louis,CXS Madison,2300,1200,1.916667
+Express Columbus,First Toledo,3400,1700,2.000000
+Express Atlanta,First Toledo,2300,1100,2.090909
+Supply Dallas,BestOf Lincoln,2800,1300,2.153846
+MedCo Columbus,Nurses Cincinnati,2600,1200,2.166667
+MedCo Columbus,HSUSA Aurora,1100,500,2.200000
+MedCo Atlanta,Nurses Cincinnati,3100,1300,2.384615
+MedCo St. Louis,Nurses Cincinnati,3100,1200,2.583333
+Supply St. Louis,HealthCo Fort Worth,2600,800,3.250000
+MedCo St. Louis,Walls Grand,3000,900,3.333333
+MedCo Atlanta,BestOf Lincoln,3200,900,3.555556
+MedCo Columbus,CXS Madison,3300,900,3.666667
+Express Columbus,Nurses Cincinnati,2800,700,4.000000
+Supply Dallas,CXS Madison,3100,600,5.166667
