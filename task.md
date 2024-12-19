@@ -31,7 +31,7 @@ ORDER BY
 ### the result of the query is:
 ![alt text](query1_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query1.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query1.csv](query1.csv)) and the query in the code block above.
 
 ## Task 2
 Calculate the ratio between the cost of shipping a batch and the quantity shipped
@@ -73,7 +73,7 @@ ORDER BY
 ### the result of the query is:
 ![alt text](query2_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query2.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query2.csv](query2.csv)) and the query in the code block above.
 
 ## Task 3
 
@@ -102,7 +102,7 @@ WHERE ps.FEMALEPHARMACISTS = ps.MALEPHARMACISTS;
 ### the result of the query is:
 ![alt text](query3_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query3.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query3.csv](query3.csv)) and the query in the code block above.
 
 ## Task 4
 Find the distributors that have not participated in the program (didn’t send any
@@ -125,7 +125,7 @@ WHERE
 ### the result of the query is:
 ![alt text](query4_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query4.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query4.csv](query4.csv)) and the query in the code block above.
 
 ## Task 5
 For each city (cities from pharmacy table), calculate the ratio of total quantity of
@@ -165,7 +165,7 @@ ORDER BY
 ### the result of the query is:
 ![alt text](query5_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query5.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query5.csv](query5.csv)) and the query in the code block above.
 
 ## Task 6
 
@@ -207,7 +207,7 @@ FROM
 ### the result of the query is:
 ![alt text](query6_result.png)!
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query6.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query6.csv](query6.csv)) and the query in the code block above.
 
 ## Task 7
 Find shippers that have shipped more than average number of shipment of all
@@ -238,7 +238,7 @@ WHERE
 ### the result of the query is:
 ![alt text](query7_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query7.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query7.csv](query7.csv)) and the query in the code block above.
 
 ## Task 8
 Now that you found the shippers in the previous question, find the earliest date
@@ -284,7 +284,7 @@ GROUP BY
 ### the result of the query is:
 ![alt text](query8_result.png)
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query8.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query8.csv](query8.csv)) and the query in the code block above.
 
 ## Task 9
 For each distributor, find the maximum distance, minimum distance, maximum
@@ -308,7 +308,7 @@ GROUP BY
 
 ### the result of the query is:
 ![alt text](query9_result.png)
-you can see the result in the image above (an export of the result is available in the same folder as this file `query9.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query9.csv](query9.csv)) and the query in the code block above.
 
 ## Task 10
 List the total number of patients and total number of received vaccines (quantity)
@@ -345,4 +345,4 @@ ORDER BY
 ![alt text](query10_result.png)
 
 
-you can see the result in the image above (an export of the result is available in the same folder as this file `query10.csv`) and the query in the code block above.
+you can see the result in the image above (an export of the result is available in the same folder as this file [query10.csv](query10.csv)) and the query in the code block above.
