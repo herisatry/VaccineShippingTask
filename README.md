@@ -5,4 +5,4 @@ the tables were populated according to the data provided from the `VaccineShippi
 you can find all the sql related result in this file => [sql task](task.md)
 the result were exported in `.csv` files if needed for each and every questions.
 ## Business Judgment
-Answers to the Business side of the task is in this file => [Business Judgment](BusinessJudgment.md)
+Answers to the Business side of the task is in this file => [Business Judgment](BusinessJudgement.md)
